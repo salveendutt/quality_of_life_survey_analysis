@@ -1,0 +1,58 @@
+Country_sample,D3_Cityrecode, cars_per_thousand_ppl
+Austria,Wien,574
+Belgium,Bruxelles / Brussel,506
+Belgium,Antwerpen,506
+Belgium,Liège,506
+Switzerland,Zürich,546
+Switzerland,Genève,546
+Cyprus,Lefkosia,475
+Czech Republic,Praha,611
+Germany,Berlin,586
+Germany,Hamburg,586
+Germany,München,586
+Germany,Essen,586
+Germany,Leipzig,586
+Germany,Dortmund,586
+Germany,Rostock,586
+Estonia,Tallinn,638
+Greece,Athina,525
+Spain,Madrid,541
+Spain,Barcelona,541
+Spain,Málaga,541
+Finland,Helsinki / Helsingfors,494
+Finland,Oulu / Uleåborg,494
+France,Paris,572
+France,Strasbourg,572
+France,Bordeaux,572
+France,Lille,572
+France,Rennes,572
+France,Marseille,572
+Croatia,Zagreb,664
+Hungary,Budapest,422
+Hungary,Miskolc,422
+Iceland,Reykjavík,629
+Italy,Roma,681
+Italy,Napoli,681
+Italy,Torino,681
+Italy,Palermo,681
+Italy,Bologna,681
+Lithuania,Vilnius,480
+Luxembourg,Luxembourg,695
+Latvia,Riga,410
+Netherlands,Amsterdam,525
+Netherlands,Rotterdam,525
+Netherlands,Groningen,525
+Norway,Oslo,530
+Poland,Warszawa,703
+Poland,Kraków,703
+Poland,Gdańsk,703
+Poland,Białystok,703
+Serbia,Beograd,356
+Sweden,Stockholm,477
+Sweden,Malmö,477
+Slovenia,Ljubljana,580
+Slovakia,Bratislava,501
+United Kingdom,Glasgow,603
+United Kingdom,Manchester,603
+United Kingdom,Cardiff,603
+United Kingdom,Tyneside conurbation,603
