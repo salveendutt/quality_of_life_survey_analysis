@@ -1,11 +1,11 @@
 Country_sample,D3_Cityrecode,monthly_ticket_pass_price
 Austria,Wien,36.50
 Belgium,Bruxelles / Brussel,52.00
-Belgium,Antwerpen,null
-Belgium,Liège,null
+Belgium,Antwerpen,52.00
+Belgium,Liège,52.00
 Switzerland,Zürich,93.37
 Switzerland,Genève,74.70
-Cyprus,Lefkosia,null
+Cyprus,Lefkosia,225.00
 Czech Republic,Praha,22.18
 Germany,Berlin,58.00
 Germany,Hamburg,58.00
@@ -13,40 +13,40 @@ Germany,München,58.00
 Germany,Essen,53.50
 Germany,Leipzig,58.00
 Germany,Dortmund,53.50
-Germany,Rostock,null
+Germany,Rostock,53.50
 Estonia,Tallinn,30.00
 Greece,Athina,30.00
 Spain,Madrid,32.80
 Spain,Barcelona,25.00
 Spain,Málaga,25.48
 Finland,Helsinki / Helsingfors,70.00
-Finland,Oulu / Uleåborg,null
+Finland,Oulu / Uleåborg,70.00
 France,Paris,88.40
 France,Strasbourg,56.00
-France,Bordeaux,null
-France,Lille,null
-France,Rennes,null
-France,Marseille,null
+France,Bordeaux,56.00
+France,Lille,56.00
+France,Rennes,56.00
+France,Marseille,56.00
 Croatia,Zagreb,50.00
 Hungary,Budapest,22.29
-Hungary,Miskolc,null
+Hungary,Miskolc,22.29
 Iceland,Reykjavík,74.96
 Italy,Roma,35.00
 Italy,Napoli,42.00
 Italy,Torino,38.00
-Italy,Palermo,null
+Italy,Palermo,38.00
 Italy,Bologna,36.00
 Lithuania,Vilnius,29.00
 Luxembourg,Luxembourg,0.00
 Latvia,Riga,30.00
 Netherlands,Amsterdam,100.00
-Netherlands,Rotterdam,null
-Netherlands,Groningen,null
+Netherlands,Rotterdam,100.00
+Netherlands,Groningen,100.00
 Norway,Oslo,67.47
 Poland,Warszawa,25.65
 Poland,Kraków,34.51
 Poland,Gdańsk,27.75
-Poland,Białystok,null
+Poland,Białystok,20.00
 Serbia,Beograd,0.00
 Sweden,Stockholm,96.41
 Sweden,Malmö,60.66
@@ -54,5 +54,5 @@ Slovenia,Ljubljana,37.00
 Slovakia,Bratislava,36.00
 United Kingdom,Glasgow,83.06
 United Kingdom,Manchester,106.80
-United Kingdom,Cardiff,null
-United Kingdom,Tyneside conurbation,null
+United Kingdom,Cardiff,83.06
+United Kingdom,Tyneside conurbation,83.06

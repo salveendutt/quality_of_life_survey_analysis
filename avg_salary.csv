@@ -1,0 +1,58 @@
+Country_sample,D3_Cityrecode, avg_salary
+Austria,Wien,4542
+Belgium,Bruxelles / Brussel,4832
+Belgium,Antwerpen,4832
+Belgium,Liège,4832
+Switzerland,Zürich,8104
+Switzerland,Genève,8104
+Cyprus,Lefkosia,2203
+Czech Republic,Praha,1955
+Germany,Berlin,4250
+Germany,Hamburg,4250
+Germany,München,4250
+Germany,Essen,4250
+Germany,Leipzig,4250
+Germany,Dortmund,4250
+Germany,Rostock,4250
+Estonia,Tallinn,2075
+Greece,Athina,1418
+Spain,Madrid,2716
+Spain,Barcelona,2716
+Spain,Málaga,2716
+Finland,Helsinki / Helsingfors,4033
+Finland,Oulu / Uleåborg,4033
+France,Paris,3555
+France,Strasbourg,3555
+France,Bordeaux,3555
+France,Lille,3555
+France,Rennes,3555
+France,Marseille,3555
+Croatia,Zagreb,1794
+Hungary,Budapest,1408
+Hungary,Miskolc,1408
+Iceland,Reykjavík,4491
+Italy,Roma,2729
+Italy,Napoli,2729
+Italy,Torino,2729
+Italy,Palermo,2729
+Italy,Bologna,2729
+Lithuania,Vilnius,2265
+Luxembourg,Luxembourg,6755
+Latvia,Riga,1858
+Netherlands,Amsterdam,4629
+Netherlands,Rotterdam,4629
+Netherlands,Groningen,4629
+Norway,Oslo,5027
+Poland,Warszawa,1505
+Poland,Kraków,1505
+Poland,Gdańsk,1505
+Poland,Białystok,1505
+Serbia,Beograd,1268
+Sweden,Stockholm,3718
+Sweden,Malmö,3718
+Slovenia,Ljubljana,2757
+Slovakia,Bratislava,1583
+United Kingdom,Glasgow,4240
+United Kingdom,Manchester,4240
+United Kingdom,Cardiff,4240
+United Kingdom,Tyneside conurbation,4240
