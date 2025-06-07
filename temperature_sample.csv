@@ -1,0 +1,58 @@
+Country_sample,D3_Cityrecode, avg_jan_temp_f
+Austria,Wien, 38.73
+Belgium,Bruxelles / Brussel, 41.77
+Belgium,Antwerpen, 42.03 
+Belgium,Liège, 39.53 
+Switzerland,Zürich, 37.8
+Switzerland,Genève, 39.34
+Cyprus,Lefkosia, 74.04
+Czech Republic,Praha, 36.92
+Germany,Berlin, 40.98
+Germany,Hamburg, 40.98
+Germany,München, 39.9
+Germany,Essen, 40.98
+Germany,Leipzig, 40.98
+Germany,Dortmund, 40.98
+Germany,Rostock, 40.98
+Estonia,Tallinn, 29.91
+Greece,Athina, 51.15
+Spain,Madrid, 42
+Spain,Barcelona, 48.15
+Spain,Málaga, 54.13
+Finland,Helsinki / Helsingfors, 29.18
+Finland,Oulu / Uleåborg, 29.18
+France,Paris, 42.78
+France,Strasbourg, 41.12
+France,Bordeaux, 44.55
+France,Lille, 42.33
+France,Rennes, 42.33
+France,Marseille, 45.34
+Croatia,Zagreb, 39.72
+Hungary,Budapest, 39.17
+Hungary,Miskolc, 39.17
+Iceland,Reykjavík, 28.69
+Italy,Roma, 49.68	
+Italy,Napoli, 49.68	
+Italy,Torino, 40.23
+Italy,Palermo, 54.99
+Italy,Bologna, 42.58
+Lithuania,Vilnius, 31.06
+Luxembourg,Luxembourg, 37.96
+Latvia,Riga, 31.72
+Netherlands,Amsterdam, 42.92
+Netherlands,Rotterdam, 42.99
+Netherlands,Groningen, 42.99
+Norway,Oslo, 26.58
+Poland,Warszawa, 36.13
+Poland,Kraków, 36.68
+Poland,Gdańsk, 36.68
+Poland,Białystok, 36.68
+Serbia,Beograd, 41.45
+Sweden,Stockholm, 30.34
+Sweden,Malmö, 38.44	
+Slovenia,Ljubljana, 35.02
+Slovakia,Bratislava, 39.15
+United Kingdom,Glasgow, 40.44
+United Kingdom,Manchester, 41.58
+United Kingdom,Cardiff, 42.52
+United Kingdom,Tyneside conurbation, 42.52
